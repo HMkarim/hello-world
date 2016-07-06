@@ -1,2 +1,3 @@
-# hello-world
-Start Coding
+<?php
+echo "hello-world";
+?>
